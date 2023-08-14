@@ -1,7 +1,7 @@
 {
-  "name": "understanding-typescript",
+  "name": "my_map_app",
   "version": "1.0.0",
-  "description": "Understanding TypeScript Course Setup",
+  "description": "A web app using the Google geolocator and maps API with typescript",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,6 +14,7 @@
   "author": "T J D Cavey",
   "license": "ISC",
   "devDependencies": {
+    "@types/googlemaps": "^3.43.3",
     "ts-loader": "^9.4.2",
     "typescript": "^4.9.5",
     "webpack": "^5.75.0",

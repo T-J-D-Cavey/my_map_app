@@ -11,7 +11,7 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "T J D Cavey",
   "license": "ISC",
   "devDependencies": {
     "ts-loader": "^9.4.2",
@@ -20,5 +20,7 @@
     "webpack-cli": "^5.0.1",
     "webpack-dev-server": "^4.11.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
 }
